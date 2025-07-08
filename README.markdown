@@ -31,7 +31,7 @@
    ```
 4. Test the deployed API:
    ```bash
-   curl -X POST https://your-app.vercel.app/search \
+   curl -X POST https://price-compare-shreyash-kumar-shreyash-kumars-projects.vercel.app/search \
      -H "Content-Type: application/json" \
      -d '{"country": "IN", "query": "iPhone 16 256GB"}'
    ```
